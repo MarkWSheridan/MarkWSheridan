@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarkWSheridan
-- 👀 I’m interested in astronomy, chess, films and tv series
+- 👀 I’m interested in astronomy, chess, films and tv series (in particular Sherlock and MCU)
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ...
 
