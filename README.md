@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @demianmorgan
+- 👋 Hi, I’m William, also known @demianmorgan
 - 👀 I’m interested in astronomy, chess, films and tv series (in particular Sherlock and MCU)
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ...
